@@ -1,3 +1,5 @@
+![Cover Photo](Advenica_cover.png)
+
 ## Welcome to Advenica
 
 Advenica is a cybersecurity company with a mission to protect the information that matters most.
