@@ -1,4 +1,4 @@
-![Cover Photo](Advenica_cover.png)
+![Cover Photo](./Advenica_cover.png)
 
 ## Welcome to Advenica
 
