@@ -1,4 +1,4 @@
-![Cover Photo](./Advenica_cover.png)
+![Cover Photo](https://raw.githubusercontent.com/Advenica/.github/main/profile/Advenica_cover.png)
 
 ## Welcome to Advenica
 
